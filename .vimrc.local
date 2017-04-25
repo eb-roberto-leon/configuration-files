@@ -1,3 +1,5 @@
+" extends from spf13-vim
+
 let mapleader = ","
 
 set expandtab
