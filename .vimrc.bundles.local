@@ -1,1 +1,4 @@
-Bundle 'airblade/vim-gitgutter'
+Plug 'easymotion/vim-easymotion'
+Plug 'mbbill/undotree'
+Plug 'shougo/neocomplete.vim'
+Plug 'shougo/vimshell.vim'
