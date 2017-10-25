@@ -1,2 +1,2 @@
 # configuration_files
-some configuration files
+some configuration files.
